@@ -1,0 +1,41 @@
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\bin\Debug\diyetisyenGUI.exe.config
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\obj\Debug\diyetisyenGUI.csprojResolveAssemblyReference.cache
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\obj\Debug\diyetisyenGUI.DiyetisyenAnaForm.resources
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\obj\Debug\diyetisyenGUI.Properties.Resources.resources
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\obj\Debug\diyetisyenGUI.csproj.GenerateResource.Cache
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\bin\Debug\diyetisyenGUI.exe
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\bin\Debug\diyetisyenGUI.pdb
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\obj\Debug\diyetisyenGUI.exe
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\obj\Debug\diyetisyenGUI.pdb
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\bin\Debug\diyetisyen_core_project.dll
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\bin\Debug\diyetisyen_core_project.pdb
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\obj\Debug\diyetisyenGUI.frmHastaEkle.resources
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\obj\Debug\diyetisyenGUI.frmDiyetisyenEkle.resources
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\obj\Debug\diyetisyenGUI.frmDiyetEkle.resources
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\obj\Debug\diyetisyenGUI.frmHastalikEkle.resources
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\obj\Debug\diyetisyenGUI.frmRaporlama.resources
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\obj\Debug\diyetisyenGUI.frmLogin.resources
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\bin\Debug\diyetisyenGUI.exe.config
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\bin\Debug\diyetisyenGUI.exe
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\bin\Debug\diyetisyenGUI.pdb
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\bin\Debug\diyetisyen_core_project.dll
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\bin\Debug\diyetisyen_core_project.pdb
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\bin\Debug\diyetisyen_core_project.dll.config
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\obj\Debug\diyetisyenGUI.csproj.AssemblyReference.cache
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\obj\Debug\diyetisyenGUI.DiyetisyenAnaForm.resources
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\obj\Debug\diyetisyenGUI.frmDiyetEkle.resources
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\obj\Debug\diyetisyenGUI.frmDiyetisyenEkle.resources
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\obj\Debug\diyetisyenGUI.frmHastaEkle.resources
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\obj\Debug\diyetisyenGUI.frmHastalikEkle.resources
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\obj\Debug\diyetisyenGUI.frmLogin.resources
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\obj\Debug\diyetisyenGUI.frmRaporlama.resources
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\obj\Debug\diyetisyenGUI.Properties.Resources.resources
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\obj\Debug\diyetisyenGUI.csproj.GenerateResource.cache
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\obj\Debug\diyetisyenGUI.csproj.CoreCompileInputs.cache
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\obj\Debug\diyetisyenGUI.csproj.CopyComplete
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\obj\Debug\diyetisyenGUI.exe
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyenGUI\obj\Debug\diyetisyenGUI.pdb

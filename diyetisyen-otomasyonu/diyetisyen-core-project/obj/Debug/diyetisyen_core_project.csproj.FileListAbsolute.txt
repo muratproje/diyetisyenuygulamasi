@@ -1,0 +1,18 @@
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\bin\Debug\diyetisyen_core_project.dll.config
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\bin\Debug\diyetisyen_core_project.dll
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\bin\Debug\diyetisyen_core_project.pdb
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\obj\Debug\diyetisyen_core_project.dll
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\obj\Debug\diyetisyen_core_project.pdb
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\obj\Debug\diyetisyen_core_project.csprojResolveAssemblyReference.cache
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\bin\Debug\diyetisyen_core_project.dll.config
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\bin\Debug\diyetisyen_core_project.dll
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\bin\Debug\diyetisyen_core_project.pdb
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\obj\Debug\diyetisyen_core_project.csproj.AssemblyReference.cache
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\obj\Debug\diyetisyen_core_project.csproj.CoreCompileInputs.cache
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\obj\Debug\diyetisyen_core_project.csproj.CopyComplete
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\obj\Debug\diyetisyen_core_project.dll
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\obj\Debug\diyetisyen_core_project.pdb

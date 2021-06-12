@@ -1,0 +1,6 @@
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\bin\Debug\diyetisyen-core-project.dll.config
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\bin\Debug\diyetisyen-core-project.dll
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\bin\Debug\diyetisyen-core-project.pdb
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\obj\Debug\diyetisyencoreproject.csprojResolveAssemblyReference.cache
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\obj\Debug\diyetisyen-core-project.dll
+C:\Users\Levent\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\obj\Debug\diyetisyen-core-project.pdb

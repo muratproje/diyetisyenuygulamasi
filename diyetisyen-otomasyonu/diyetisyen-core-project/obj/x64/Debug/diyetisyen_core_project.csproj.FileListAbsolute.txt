@@ -1,0 +1,10 @@
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\bin\x64\Debug\diyetisyen_core_project.dll.config
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\bin\x64\Debug\diyetisyen_core_project.dll
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\bin\x64\Debug\diyetisyen_core_project.pdb
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\obj\x64\Debug\diyetisyen_core_project.csproj.AssemblyReference.cache
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\obj\x64\Debug\diyetisyen_core_project.csproj.CoreCompileInputs.cache
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\obj\x64\Debug\diyetisyen_core_project.csproj.CopyComplete
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\obj\x64\Debug\diyetisyen_core_project.dll
+C:\Users\Temel Eğitim\Desktop\diyetisyen-otomasyonu\diyetisyen-core-project\obj\x64\Debug\diyetisyen_core_project.pdb
